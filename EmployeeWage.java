@@ -2,7 +2,9 @@ public class EmployeeWage
     {
       public static void main(String[] args)
       {
-          int full_time = 1;
+          int Perhr=20;
+          int emphrs=0;
+         int full_time = 1;
           System.out.println("WELCOME");
           double empCheck = Math.floor(Math.random() * 10) % 2;
 
